@@ -1,0 +1,9 @@
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\bin\Debug\Red_Wine_Quality.exe.config
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\bin\Debug\Red_Wine_Quality.exe
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\bin\Debug\Red_Wine_Quality.pdb
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\obj\Debug\Red_Wine_Quality.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\obj\Debug\Red_Wine_Quality.Form1.resources
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\obj\Debug\Red_Wine_Quality.Properties.Resources.resources
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\obj\Debug\Red_Wine_Quality.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\obj\Debug\Red_Wine_Quality.exe
+C:\Users\Enes\source\repos\Red_Wine_Quality\Red_Wine_Quality\obj\Debug\Red_Wine_Quality.pdb
